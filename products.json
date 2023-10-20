@@ -1,0 +1,132 @@
+[
+    {
+      "name": "air conditioner",
+      "price": 2500,
+      "company": "LG",
+      "rating": 4
+    },
+    {
+      "name": "samsung galaxy s51",
+      "price": 109000,
+      "company": "Samsung",
+      "rating": 5
+    },
+    {
+      "name": "classy table",
+      "price": 309,
+      "company": "Casa living",
+      "rating": 4.9
+    },
+    {
+      "name": "armchair",
+      "price": 1250,
+      "company": "Dutin",
+      "rating": 4.8
+    },
+    {
+      "name": "bar stool",
+      "price": 4000,
+      "company": "Casa Living",
+      "rating": 4.6
+    },
+    {
+      "name": "dining table",
+      "price": 89000,
+      "company": "Casa Living",
+      "rating": 4.55
+    },
+    {
+      "name": "King size bed",
+      "price": 53000,
+      "company": "Casa Living"
+    },
+    {
+      "name": "entertainment center",
+      "price": 59000,
+      "featured": true,
+      "company": "Casa Living"
+    },
+    {
+      "name": "luxurious bench",
+      "price": 39999,
+      "featured": true,
+      "company": "Dutin"
+    },
+  
+    {
+      "name": "leather sofa",
+      "price": 99000,
+      "company": "Casa Living"
+    },
+    {
+      "name": "modern bookshelf",
+      "price": 67000,
+      "featured": true,
+      "company": "Dutin"
+    },
+    {
+      "name": "modern home automation",
+      "price": 88999,
+      "company": "LG"
+    },
+    {
+      "name": "shelf",
+      "price": 67000,
+      "company": "Casa Living"
+    },
+    {
+      "name": "simple chair",
+      "price": 1090,
+      "company": "Dutin"
+    },
+    {
+      "name": "sofa",
+      "price": 129000,
+      "company": "Casa Living"
+    },
+    {
+      "name": "Flat chair",
+      "price": 1500,
+      "company": "Dutin"
+    },
+    {
+      "name": "Baby sofa",
+      "price": 79000,
+      "featured": true,
+      "company": "Casa Living"
+    },
+    {
+      "name": "Painting abstract",
+      "price": 12000,
+      "featured": true,
+      "company": "Dutin"
+    },
+    {
+      "name": "wooden bed",
+      "price": 25999,
+      "company": "Casa Living"
+    },
+    {
+      "name": "C51 smartphone",
+      "price": 19000,
+      "company": "Samsung"
+    },
+    {
+      "name": "A51 smartphone",
+      "price": 40000,
+      "company": "Samsung"
+    },
+    {
+      "name": "Marvel Toys",
+      "price": 2300,
+      "featured": true,
+      "company": "Samsung"
+    },
+    {
+      "name": "Wall Posters",
+      "price": 14000,
+      "featured": true,
+      "company": "Dutin"
+    }
+  ]
+  
